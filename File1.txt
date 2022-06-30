@@ -14,3 +14,5 @@ Change6 :- for CR1  reabse with conflict.
 
 change7 :- For WI6 to test stash, work in-progress..
 
+Chnage8: for WI6 for normal push to remote master.
+
