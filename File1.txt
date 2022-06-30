@@ -2,6 +2,9 @@ Welcome to git!
 
 Change for WI2.
 
-Change:  to fix bug1
+Change: to fix bug1.
 
-Change: by team mate on master to check 3-way merging with conflict WI4
+Change: by team mate on master to check 3-way merging with conflict WI4.
+
+Change: for bug2 as 3-waymergning with conflict.
+
