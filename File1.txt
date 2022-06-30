@@ -2,4 +2,6 @@ Welcome to git!
 
 Change for WI2.
 
-Change  to fix bug1
+Change  to fix bug1.
+
+Change for bug2 as 3-waymergning with conflict.
