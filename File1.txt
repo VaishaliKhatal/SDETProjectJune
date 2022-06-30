@@ -14,9 +14,9 @@ Change6 :- for CR1  reabse with conflict.
 
 change7 :- For WI6 to test stash, work in-progress..
 
-Change8: for WI6 for normal push to remote master.
+Change 8: for WI6 for normal push to remote master.
 
-Change9: for CR2 by teammate on remote master to chcekd normal pull operation.
+Change 9: for CR2 by teammate on remote master to chcekd normal pull operation.
 
 Change10: by team mate for CR3 to chcek pull rebase with conflict.
 
