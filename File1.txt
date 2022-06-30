@@ -1,12 +1,15 @@
 Welcome to git!
 
-Change1 for WI2.
+Change1 :- for WI2.
 
-Change2 : to fix bug1.
+Change2 :- to fix bug1.
 
-Change3 : by team mate on master to check 3-way merging with conflict WI4.
+Change3 :- by team mate on master to check 3-way merging with conflict WI4.
 
-Change4 : for bug2 as 3-waymergning with conflict.
+Change4 :- for bug2 as 3-waymergning with conflict.
 
-Change5 : by team amte for reabse with conflcit WI5.
+Change5 :- by team amte for reabse with conflcit WI5.
+
+Change6 :- for CR1  reabse with conflict.
+
 
